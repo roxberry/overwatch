@@ -93,12 +93,11 @@ textarea {
    Author's custom styles
    ========================================================================== */
 .hud {
-    width: 320px;
+    min-width: 320px;
 }
 
 .bar
 {
-    width: 100%;
     font-size: large;
     color: white;
     height: 25px;
